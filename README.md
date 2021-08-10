@@ -1,6 +1,6 @@
 ### Albert's Repositories
 - ![C](https://camo.githubusercontent.com/9e5c8ece7eeb4c9d19785a1b360320f0833deb644cfd81eea6a4b3153db95e82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3333333333333f7374796c653d666c6174266c6f676f3d43) ![C++](https://camo.githubusercontent.com/a4644c2c5e4c79f18df871393e6e4947669c20d36e6e633d33c5d0d34203e146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3333333333333f7374796c653d666c6174266c6f676f3d43253242253242) ![Python](https://camo.githubusercontent.com/cc663b44f5f2d7e674990fd054d828aae0e30ec8df36768e5f5552978da1cfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e)
-- ![Widows](https://camo.githubusercontent.com/b0988431072720b9ddd2ad34cb662eabeadedacfe80c9dd47267dd6d4f3e88c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3333333333333f7374796c653d666c6174266c6f676f3d77696e646f7773)
+- ![Widows](https://img.shields.io/badge/windows-gray?logo=windows&logoColor=blue)
 
 <a><img align="top" src="https://github-readme-stats.vercel.app/api?username=zjysnow&show_icons=true&theme=dark" /></a>
 <a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjysnow&show_icons=true&theme=dark&langs_count=10" /></a>
