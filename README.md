@@ -1,9 +1,10 @@
 ### Albert's Repositories
 - ![C](https://img.shields.io/badge/C-gray?logo=C) ![C++](https://img.shields.io/badge/C++-gray?logo=Cplusplus) ![Python](https://img.shields.io/badge/Python-gray?logo=Python)
 - ![Widows](https://img.shields.io/badge/Windows-gray?logo=windows&logoColor=blue)
-- ![Tensorflow](https://img.shields.io/badge/Tensorflow-gray?logo=tensorflow) ![Pytorch](https://img.shields.io/badge/Pytorch-gray?logo=pytorch) ![Numpy](https://img.shields.io/badge/numpy-gray?logo=numpy) 
+- ![Tensorflow](https://img.shields.io/badge/Tensorflow-gray?logo=tensorflow) ![Pytorch](https://img.shields.io/badge/Pytorch-gray?logo=pytorch) ![Numpy](https://img.shields.io/badge/numpy-gray?logo=numpy) ![Vulkan](https://img.shields.io/badge/Vulkan-gray?logo=vulkan)
+- ![azure](https://img.shields.io/badge/com-gray?logo=visualstudiocode)
 
-
+![QQ](https://img.shields.io/badge/QQ-980428900-gray?logo=tencentqq) ![Azure](https://img.shields.io/badge/Azure-gray?logo=azuredevops)
 
 <a><img align="top" src="https://github-readme-stats.vercel.app/api?username=zjysnow&show_icons=true&theme=dark" /></a>
 <a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjysnow&show_icons=true&theme=dark&langs_count=10" /></a>
